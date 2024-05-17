@@ -2,13 +2,12 @@
 
 Ce dépôt est le dépôt final du projet de TP *Suika Game* qui est à rendre. Le dépôt comporte différents parties :
 
-- [**Description et Objectif du Jeu**](https://forge.univ-lyon1.fr/p2309389/suika-game#description-et-objectif-du-jeu)
-- [**Explication de l'interface**](https://forge.univ-lyon1.fr/p2309389/suika-game#explication-de-linterface-)
-- [**Mode de jeu**](https://forge.univ-lyon1.fr/p2309389/suika-game#mode-de-jeu-)
-- [**Comment jouer ?**](https://forge.univ-lyon1.fr/p2309389/suika-game#comment-jouer-)
-- [**Répertoires**](https://forge.univ-lyon1.fr/p2309389/suika-game#répertoires)
-- [**Installation**](https://forge.univ-lyon1.fr/p2309389/suika-game#installation)
-- [**Contribuer**](https://forge.univ-lyon1.fr/p2309389/suika-game#contribuer)
+- [**Description et Objectif du Jeu**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#description-et-objectif-du-jeu)
+- [**Explication de l'interface**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#explication-de-linterface-)
+- [**Mode de jeu**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#mode-de-jeu-)
+- [**Comment jouer ?**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#comment-jouer--)
+- [**Installation**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#installation-)
+- [**Contribuer**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#contribuer)
 
 ## Description et Objectif du Jeu
 
