@@ -1,12 +1,10 @@
 # Dépôt de Suika Game
 
-Ce dépôt est le dépôt final du projet de TP *Suika Game* qui est à rendre. Le dépôt comporte différents parties :
-
 - [**Description et Objectif du Jeu**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#description-et-objectif-du-jeu)
+- [**Installation**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#installation-)
 - [**Explication de l'interface**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#explication-de-linterface-)
 - [**Mode de jeu**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#mode-de-jeu-)
 - [**Comment jouer ?**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#comment-jouer--)
-- [**Installation**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#installation-)
 - [**Contribuer**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#contribuer)
 
 ## Description et Objectif du Jeu
@@ -25,6 +23,19 @@ Sukia Game est un jeu où le joueur doit placer des fruits dans un récipient. A
 - Melon
 - Ananas
 - Pastèque
+
+## Installation :
+Vous pouvez installer le jeu en téléchargeant le zip de ce projet via le bouton vert **Code** -> **Download ZIP** ou [**via ce lien**](https://github.com/SWMR-Siya/Suika-game-win/archive/refs/heads/main.zip).
+
+Ensuite, vous devez extraire le fichier téléchargé, soit par le logiciel de base de Windows, soit par un autre logiciel tiers comme WinZip.
+
+Une fois l'ensemble des fichiers extrait, un exécutable nommé `Suika-game` se trouvera dans le dossier principal. Aucune installation n'est requise et aucune sauvegarde ne sera stockée sur votre ordinateur.
+
+Si Windows empêche l'exécution du jeu avec un message du type "Windows a protégé votre ordinateur", vous pouvez cliquer sur "Informations complémentaires" -> "Exécuter quand même".
+
+Bonne partie !
+
+
 
 ## Explication de l'interface :
 À gauche, vous trouverez `les images des 11 fruits` avec `leurs noms` et `leurs scores`, qui seront pris en compte lors des fusions.
@@ -68,17 +79,6 @@ Vous avez 4 touches affectées pour jouer :
 - `q` : Déplace le fruit jouable vers la gauche.
 - `barre espace` : Permet de faire tomber le fruit. Dans le mode chaos sans limite, la touche espace est désactivée.
 - `o` : Fait perdre le joueur. Cela permet de quitter le jeu plus rapidement.
-
-## Installation :
-Vous pouvez installer le jeu en téléchargeant le zip de ce projet via le bouton vert **Code** -> **Download ZIP** ou [**via ce lien**](https://github.com/SWMR-Siya/Suika-game-win/archive/refs/heads/main.zip).
-
-Ensuite, vous devez extraire le fichier téléchargé, soit par le logiciel de base de Windows, soit par un autre logiciel tiers comme WinZip.
-
-Une fois l'ensemble des fichiers extrait, un exécutable nommé `Suika-game` se trouvera dans le dossier principal. Aucune installation n'est requise et aucune sauvegarde ne sera stockée sur votre ordinateur.
-
-Si Windows empêche l'exécution du jeu avec un message du type "Windows a protégé votre ordinateur", vous pouvez cliquer sur "Informations complémentaires" -> "Exécuter quand même".
-
-Bonne partie !
 
 
 
