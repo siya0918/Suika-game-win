@@ -85,5 +85,5 @@ Vous avez 4 touches affectées pour jouer :
 ***Mise à jour***
 Vous pouvez maintenant jouer avec votre souris. Maintenez le bouton gauche enfoncé pour déplacer le fruit. Relâchez pour faire tomber le fruit.
 
-## Contribution
+##Contribution
 3 étudiants dont moi sur ce projet
