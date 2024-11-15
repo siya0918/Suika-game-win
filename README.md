@@ -5,6 +5,7 @@
 - [**Explication de l'interface**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#explication-de-linterface-)
 - [**Mode de jeu**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#mode-de-jeu-)
 - [**Comment jouer ?**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#comment-jouer--)
+- [**Contribution ?**](https://github.com/SWMR-Siya/Suika-game-win?tab=readme-ov-file#contribution--)
 
 
 ## Description et Objectif du Jeu
@@ -79,3 +80,10 @@ Vous avez 4 touches affectées pour jouer :
 - `q` : Déplace le fruit jouable vers la gauche.
 - `barre espace` : Permet de faire tomber le fruit. Dans le mode chaos sans limite, la touche espace est désactivée.
 - `o` : Fait perdre le joueur. Cela permet de quitter le jeu plus rapidement.
+- 
+
+***Mise à jour***
+Vous pouvez maintenant jouer avec votre souris. Maintenez le bouton gauche enfoncé pour déplacer le fruit. Relâchez pour faire tomber le fruit.
+
+## Contribution
+3 étudiants dont moi sur ce projet
